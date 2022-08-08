@@ -1,4 +1,4 @@
-package com.example.mvvm_daggerhilt_flow
+package com.example.mvvm_daggerhilt_flow.ui
 
 import android.os.Bundle
 import android.util.Log
@@ -7,6 +7,8 @@ import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.example.mvvm_daggerhilt_flow.viewModel.MainViewModel
+import com.example.mvvm_daggerhilt_flow.data.NetworkResult
 import com.example.mvvm_daggerhilt_flow.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 

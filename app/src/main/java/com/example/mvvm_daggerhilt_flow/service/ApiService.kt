@@ -1,5 +1,6 @@
-package com.example.mvvm_daggerhilt_flow
+package com.example.mvvm_daggerhilt_flow.service
 
+import com.example.mvvm_daggerhilt_flow.Product
 import retrofit2.http.GET
 
 /**

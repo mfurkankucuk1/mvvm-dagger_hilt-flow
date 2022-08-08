@@ -1,4 +1,4 @@
-package com.example.mvvm_daggerhilt_flow
+package com.example.mvvm_daggerhilt_flow.ui
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -6,6 +6,7 @@ import androidx.recyclerview.widget.AsyncListDiffer
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import com.example.mvvm_daggerhilt_flow.Product
 import com.example.mvvm_daggerhilt_flow.databinding.ItemRowProductBinding
 
 /**

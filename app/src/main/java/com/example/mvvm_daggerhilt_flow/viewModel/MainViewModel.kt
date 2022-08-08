@@ -1,9 +1,12 @@
-package com.example.mvvm_daggerhilt_flow
+package com.example.mvvm_daggerhilt_flow.viewModel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.example.mvvm_daggerhilt_flow.service.MainRepository
+import com.example.mvvm_daggerhilt_flow.data.NetworkResult
+import com.example.mvvm_daggerhilt_flow.Product
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.launch

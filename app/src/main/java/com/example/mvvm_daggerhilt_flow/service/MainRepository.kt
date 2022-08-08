@@ -1,5 +1,7 @@
-package com.example.mvvm_daggerhilt_flow
+package com.example.mvvm_daggerhilt_flow.service
 
+import com.example.mvvm_daggerhilt_flow.data.NetworkResult
+import com.example.mvvm_daggerhilt_flow.service.ApiService
 import kotlinx.coroutines.flow.catch
 import kotlinx.coroutines.flow.flow
 import javax.inject.Inject
