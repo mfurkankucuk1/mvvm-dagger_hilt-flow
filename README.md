@@ -1,5 +1,19 @@
 # mvvm-dagger_hilt-flow
 
+
+#Description#
+
+A sample project listing product data pulled over the internet using MVVM Dagger Hilt and Flow.
+
+#Used technologies#
+
+-MVVM
+-Dagger Hilt
+-Retrofit
+-Coroutines
+-Flow
+
+
 #Network Module#
 
 @Module
