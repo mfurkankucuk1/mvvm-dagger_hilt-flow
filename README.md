@@ -8,10 +8,15 @@ A sample project listing product data pulled over the internet using MVVM Dagger
 #Used technologies#
 
 -MVVM
+
 -Dagger Hilt
+
 -Retrofit
+
 -Coroutines
+
 -Flow
+
 
 
 #Network Module#
