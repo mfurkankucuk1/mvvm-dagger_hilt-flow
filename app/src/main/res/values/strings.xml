@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MVVM-DaggerHilt-Flow</string>
+    <string name="search">Search</string>
 </resources>
